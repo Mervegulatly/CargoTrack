@@ -1,0 +1,23 @@
+# Python
+backend/venv/
+backend/venv311/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/*.db
+backend/.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Unused
+backend/crew/
+
+# OS
+.DS_Store
+.history/
+
+# Academic — repo dışı
+gereksinim.md
